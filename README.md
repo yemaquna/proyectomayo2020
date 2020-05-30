@@ -1,7 +1,6 @@
 # Proyectomayo2020
 # **PACHACUTEC**
-![enter image description here]
-(https://pachaqtec.edu.pe/img/respaldoIntercorpIdatZegelIpae.png)
+
 
 ##  **Introducción**
 
