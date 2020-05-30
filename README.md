@@ -18,7 +18,7 @@ PACHACUTEC MAYO 2020
 > Descarga de Visual Estudio Code Creación de carpetas y archivos   
 
   > Explore    
-      >  Source
+  >  Source
 
 **Semana 1 Sesion 3**
 
