@@ -1,7 +1,7 @@
 
-**Semana 1 Sesion 3**
+ 1. > Git Huba
 
-> Git Huba y Git Lab
+ 
+ 2. > Git Lab
 
 ![enter image description here](https://api-blog-v6.prodequa.com/storage/blog/posts/spatial-2.jpeg)
-
