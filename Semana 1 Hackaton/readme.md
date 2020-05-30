@@ -13,4 +13,5 @@
 
 **Semana 1 Sesion 3**
 
- - [ ] . Git
+ - [ ] . Git  
+ - semana de evaluacion
