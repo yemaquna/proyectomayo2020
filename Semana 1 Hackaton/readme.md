@@ -5,13 +5,5 @@
 
 **Semana 1 Sesion 1**
 
- - [ ] nada
-
-**Semana 1 Sesion 2**
-
- - [ ] Visual Studio Code
-
-**Semana 1 Sesion 3**
-
- - [ ] . Git  
- - semana de evaluacion
+ - Introduccion breve de la clase
+   
