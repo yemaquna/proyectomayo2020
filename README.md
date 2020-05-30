@@ -1,6 +1,6 @@
-# Proyectomayo2020
-# **PACHACUTEC**
+PACHACUTEC MAYO 2020
 
+# **PACHACUTEC**
 
 ##  **Introducción**
 
@@ -22,14 +22,10 @@
 
 **Semana 1 Sesion 3**
 
->     Git Hub
->     Git Lab
+> Git Huba 
+> Git Lab
 
 
 **Semana 1 Hachaton**
 
- 
-
-    Creacion URL en Git Hub y Git Lab
-
-
+> Creacion de URL en Git Hub y Git Lab
